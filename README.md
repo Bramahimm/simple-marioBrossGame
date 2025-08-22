@@ -6,6 +6,7 @@ Pemain bisa menggerakkan karakter Mario, melompat, menghindari rintangan (pipa/m
 ---
 
 ## 📂 Struktur Project
+```
 src/
 ├── img/
 │   ├── start.png 
@@ -20,7 +21,7 @@ src/
 ├── Musuh.java 
 ├── Block.java 
 └── Karakter.java
-
+```
 
 ---
 
